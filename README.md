@@ -1,2 +1,4 @@
-# cv
-A curriculum vitae for Travis Yunis.
+# Travis Yunis
+Curriculum vitae
+
+## Skills
