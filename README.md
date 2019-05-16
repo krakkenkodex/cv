@@ -55,17 +55,17 @@ July 2007 - January 2008
 * Worked with product and development teams to create applications from concepts to finished products.
 * Majority of time spent designing and creating prototypes for J2ME and BREW applications.
 
-**Production Artist**
-*Hands-On Mobile*
-November 2005 - July 2007
+**Production Artist**  
+*Hands-On Mobile*  
+November 2005 - July 2007  
 
 * Responsible for handling all design works for mobile applications, web development, marketing, and product teams.
 * Consistently met deadlines with limited resources and assistance which led to subsequent promotion.
 * Established quality standards for mobile personalization sold internationally.
 
-**Lead Quality Assurance Engineer**
-*Mforma*
-March 2004 - November 2005
+**Lead Quality Assurance Engineer**  
+*Mforma*  
+March 2004 - November 2005  
 
 * Developed testing strategies for multiple J2ME and BREW projects for an assortment of devices and carriers.
 * Handled the reporting, testing, and submissions of applications for T-Mobile, Sprint, Nextel, and Boost Mobile.
