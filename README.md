@@ -36,9 +36,9 @@ February 2010 - February 2011
 * Collaborated with multiple teams and associates at all levels in order to bring together an overall improved services system.
 * Maintained continuous alignment of project scope, and made recommendations to modify the project to enhance the business objectives.
 
-**Sr. Graphic Designer**
-*Hands-On Mobile*
-January 2008 - December 2009
+**Sr. Graphic Designer**  
+*Hands-On Mobile*  
+January 2008 - December 2009  
 
 * Led the first user experience design team that improved the quality and rate of work being produced for mobile games and applications.
 * Dramatically reduced design cycles by encouraging best practices and the standardization of design processes.
@@ -46,9 +46,9 @@ January 2008 - December 2009
 * Advanced product design development by improving processes and through the adoption of new design and usability standards.
 * Aided in the development of quality concept applications that awarded the company with crucial RFPs.
 
-**Graphic Designer**
-*Hands-On Mobile*
-July 2007 - January 2008
+**Graphic Designer**  
+*Hands-On Mobile*  
+July 2007 - January 2008  
   
 * Introduced user centric design practices into 
 * Coordinated relationships and project deliverables with internal and external stakeholders.
