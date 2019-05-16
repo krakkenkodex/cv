@@ -87,3 +87,21 @@ December 2001 - January 2003
 * Collaborated with customers, designers and print companies to produce
 marketing collateral for local businesses and schools.
 * Greatly improved design delivery by adopting emerging design standards and applications.
+
+## Education
+
+**Certified, Project Management**  
+*University of California, San Diego*  
+2007 - 2009  
+
+**B.Sc., Media Arts and Animation**  
+*Art Institute of California, San Diego*  
+2001 - 2004  
+
+**Certified, Web Publishing**  
+*University of California, San Diego*  
+2001 - 2001  
+
+**Certified, Multimedia Development**  
+*University of California, San Diego*  
+2001 - 2001  
