@@ -2,7 +2,10 @@
 Multidisciplinary designer specializing in UX, UI, branding, and product design.  
 *Carlsbad, California*
 
-## Summary
+## Objective
+To build and manage human-centred design (ergonomics, human factors, UX, interaction design, etc) 
+
+## Core Competencies
 * Lead UX and UI designer with substantial expertise in product design and consumer applications.
 * 19+ years of experience in the software development industry.
 * Specialized in multi-platform designs that focus on resolving real-world problems.
@@ -11,7 +14,8 @@ Multidisciplinary designer specializing in UX, UI, branding, and product design.
 
 ## Work Experience
 **Lead User Experience Designer**  
-*2Mundos Inc.*  
+2Mundos Inc.  
+*2Mundos develops, publishes, and distributes interactive software worldwide for social, web, and mobile platform. 2Mundos also develops interactive digital platforms for educational and game publishers.*  
 Jun 2015 - Present  
 
 * Designed the first IoT mobile and web platform for urban electric scooters including back-office management tools and branding.
@@ -20,7 +24,8 @@ Jun 2015 - Present
 * Led the design team in the development of multiple platforms, applications, websites, and promotional materials.
 
 **User Experience Designer**  
-*Movile Internet Movel S.A.*  
+Movile Internet Movel S.A.  
+*Movile is a Brazilian venture capital company that develops software for segments in mobile content, ordering and delivery, tickets and logistics.*  
 March 2011 - February 2015  
 
 * Collaborated with the product and innovation teams to to create scaleable multi-platform product designs for a number of clients in LATAM.
@@ -82,6 +87,7 @@ June 2000 - March 2004
 
 **Graphic Designer**  
 *Media All Stars*  
+*Media Allstars is a marketing and advertising agency specialized in funding highschool sports for the greater San Diego area.*  
 December 2001 - January 2003  
 
 * Collaborated with customers, designers and print companies to produce
