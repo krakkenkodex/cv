@@ -73,8 +73,8 @@ November 2005 - July 2007
 * Established quality standards for mobile personalization sold internationally.
 
 ### Lead Quality Assurance Engineer
-**Mforma**  
-*A wireless entertainment company that develops, publishes and distributes mobile content via network operators and portals.*
+**MForma Group**  
+*A global publisher and distributor of mobile entertainment and a provider of marketing communications services to tech companies.*  
 March 2004 - November 2005  
 
 * Developed testing strategies for multiple J2ME and BREW projects for an assortment of devices and carriers.
