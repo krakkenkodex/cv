@@ -69,7 +69,7 @@ July 2007 - January 2008
 * Worked with product and development teams to create applications from concepts to finished products.
 * Majority of time spent designing and creating prototypes for J2ME and BREW applications.
 
-**Production Artist**
+**Production Artist**  
 November 2005 - July 2007  
 
 * Responsible for handling all design works for mobile applications, web development, marketing, and product teams.
@@ -124,3 +124,16 @@ marketing collateral for local businesses and schools.
 **Certified, Multimedia Development**  
 *University of California, San Diego*  
 2001 - 2001  
+
+## Skills & Skillsets
+
+Wire-framing, Prototyping, Information Architecture Design, Storyboarding, Research, Interaction Design, Visual Design, Project Management, Branding, Illustration, 3D Modeling & Animation, Animation, Web Publishing, Quality Assurance Testing, A/B and Multivariate Testing, Proofreading, Image Editing, Graphic Design, UX Mapping
+
+## Software
+
+Sketch, Adobe CC (Photoshop, Illustrator, InDesign, Acrobat, Dreamweaver, Flash, Fireworks, Premiere, After Effects), InVision, Zeplin, Axure, Omnigraffle, Git, A/B Test Master, HTML_CodeSniffer, Brackets, Visual Studio Code, Figma, Flinto, MagicaVoxel, 3D Studio Max, Maya, Blender, Microsoft (Project, PowerPoint, Excel, Word), Google (Docs, Drive, Slides, Sheets, MyBusiness, Analytics), Atom, Origami Studio, Azure, Balsamiq, Proto.io, UXPin, Usability Hub, BoardThing, Chalkmark, Aurelius, Camtasia, Snagit, Jing, 53 Paper & Pencil, Surveymonkey, Concept, UserTest.io, Draw.io, MindNode, Dropbox, Box, ImageOptim, PNGCrush, Slack, BaseCamp, Appear.in, Gimp, Corel Draw, Jira, Trello, Quark Xpress, TestTracker
+
+## Coding Languages
+
+HTML, XHTML, XML, CSS (SASS/SCSS), SVG
+
