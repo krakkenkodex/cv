@@ -1,16 +1,17 @@
 # Travis Yunis
-Multidisciplinary designer specializing in UX, UI, branding, and product design.  
-*Carlsbad, California*
+User Experience, User Interface, & Product Design  
+*Carlsbad, California*  
 
-## Objective
-To build and manage human-centred design (ergonomics, human factors, UX, interaction design, etc) 
+I design functional, engaging, and easy to use products for people. Making the technologies they depend on easier to use, and solving their real-world problems with well-designed solutions. 
 
 ## Core Competencies
-* Lead UX and UI designer with substantial expertise in product design and consumer applications.
-* 19+ years of experience in the software development industry.
-* Specialized in multi-platform designs that focus on resolving real-world problems.
-* Demonstrated ability to deliver quality work for important clients and partners: Activision, AT&T, Marvel, NASCAR, NBA, NFL, Oprah, Sprint, T-Mobile, etc.
-* Fluent in English and Portuguese
+* UX and UI designer specialized in client-facing mobile applications and platforms.
+* Managed teams of user experience designers, researchers, interaction designers, testers, and developers to produce high-quality software.
+* Demonstrated ability to deliver quality design work for important clients and partners including; Activision, Android, AT&T, Marvel, NASCAR, NBA, NFL, Oprah, Samsung, Sprint, T-Mobile, Verizon, Vivo, etc.
+* Self-motivated, self-starter, and enjoy working with others to produce great products.
+* International, Quality Assurance, Graphic Design, Entrepreneur, Product and Project Management experience.
+* Background in traditional animation, 3D animation, and the fine arts.
+* Fluent in English and Portuguese.
 
 ## Work Experience
 ### Lead User Experience Designer
