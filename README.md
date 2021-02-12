@@ -14,11 +14,21 @@ I design functional, engaging, and easy to use products for people. Making the t
 * Fluent in English and Portuguese.
 
 ## Work Experience
-### 2Mundos Inc.
-*A software publishing house that develops, publishes, and distributes interactive software worldwide for social, web, and mobile platforms.*  
+### Seamgen LLC
+*An application development company, specializing in mobile and web application development.* 
 
 **Lead User Experience Designer**   
-Jun 2015 - Present  
+Jun 2019 - Present  
+
+* Lead design projects for a range of clients in various fields for a wide range of projects.
+* WCAG and A11Y compliance 
+
+## Work Experience
+### 2Mundos Inc.
+* A software publishing house that develops, publishes, and distributes interactive software worldwide for social, web, and mobile platforms.*  
+
+**Lead User Experience Designer**   
+Jun 2015 - May 2019  
 
 * Lead the design teams in the development of platforms, applications, websites, and promotional materials from ideas to finished products and services.
 * Work with, maintain, and help create design specifications used to build products and help contribute to an overall usable design system. 
@@ -126,14 +136,22 @@ marketing collateral for local businesses and schools.
 2001 - 2001  
 
 ## Skills & Skillsets
-
-Wire-framing, Prototyping, Information Architecture Design, Storyboarding, Research, Interaction Design, Visual Design, Project Management, Branding, Illustration, 3D Modeling & Animation, Animation, Web Publishing, Quality Assurance Testing, A/B and Multivariate Testing, Proofreading, Image Editing, Graphic Design, UX Mapping
+* Product Design
+* UX Design - Storyboarding, Wire-framing, Architecture Design, Research, User Testing, A/B and Multivariate Testing, Prototyping, Interaction Design, etc
+* Visual Design - Branding, Illustration, Animation, 3D Modeling, Image Editing, Packaging, Signage, Presentations, etc
+* Fine Arts - Ceramics, Painting, Sculpture, Print Making, Computer art
+* Project Management 
+* Web Publishing & Web Design (HTML/CSS)
+* Quality Assurance Testing
+* Graphic Design, Ceramics, Sculpture
+* Ranching & Ranch Management
+* Events & Event Management
 
 ## Software
-
-Sketch, Adobe CC (Photoshop, Illustrator, InDesign, Acrobat, Dreamweaver, Flash, Fireworks, Premiere, After Effects), InVision, Zeplin, Axure, Omnigraffle, Git, A/B Test Master, HTML_CodeSniffer, Brackets, Visual Studio Code, Figma, Flinto, MagicaVoxel, 3D Studio Max, Maya, Blender, Microsoft (Project, PowerPoint, Excel, Word), Google (Docs, Drive, Slides, Sheets, MyBusiness, Analytics), Atom, Origami Studio, Azure, Balsamiq, Proto.io, UXPin, Usability Hub, BoardThing, Chalkmark, Aurelius, Camtasia, Snagit, Jing, 53 Paper & Pencil, Surveymonkey, Concept, UserTest.io, Draw.io, MindNode, Dropbox, Box, ImageOptim, PNGCrush, Slack, BaseCamp, Appear.in, Gimp, Corel Draw, Jira, Trello, Quark Xpress, TestTracker
+Figma, Sketch, Adobe CC (Photoshop, Illustrator, InDesign, Acrobat, Dreamweaver, Flash, Fireworks, Premiere, After Effects), InVision, Zeplin, Axure, Omnigraffle, Git, A/B Test Master, HTML_CodeSniffer, Brackets, Visual Studio Code, Figma, Flinto, MagicaVoxel, 3D Studio Max, Maya, Blender, Microsoft (Project, PowerPoint, Excel, Word), Google (Docs, Drive, Slides, Sheets, MyBusiness, Analytics), Atom, Origami Studio, Azure, Balsamiq, Proto.io, UXPin, Usability Hub, BoardThing, Chalkmark, Aurelius, Camtasia, Snagit, Jing, 53 Paper & Pencil, Surveymonkey, Concept, UserTest.io, Draw.io, MindNode, Dropbox, Box, ImageOptim, PNGCrush, Slack, BaseCamp, Appear.in, Gimp, Corel Draw, Jira, Trello, Quark Xpress, TestTracker
 
 ## Coding Languages
-
 HTML, XHTML, XML, CSS (SASS/SCSS), SVG
 
+## Personality Type
+* Mediator - INFP-t
