@@ -152,6 +152,3 @@ Figma, Sketch, Adobe CC (Photoshop, Illustrator, InDesign, Acrobat, Dreamweaver,
 
 ## Coding Languages
 HTML, XHTML, XML, CSS (SASS/SCSS), SVG
-
-## Personality Type
-* Mediator - INFP-t
