@@ -1,4 +1,4 @@
-# Travis Yunis
+# Travis
 User Experience, User Interface, & Product Design  
 *Carlsbad, California*  
 
